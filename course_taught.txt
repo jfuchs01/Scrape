@@ -1,0 +1,593 @@
+﻿Professor: Stanley Bak
+Teaching Summary:
+None
+
+
+Professor: Aruna Balasubramanian
+Teaching Summary:
+CSE 692
+
+
+Professor: Niranjan Balasubramanian
+Teaching Summary:
+CSE 628
+
+
+Professor: Ritwik Banerjee
+Teaching Summary:
+None
+
+
+Professor: Michael Bender
+Teaching Summary:
+CSE 150, CSE 303, CSE 350, CSE 373, CSE 385, CSE 495/496, CSE 548, CSE 638, CSE 642
+
+
+Professor: Xiaojun Bi
+Teaching Summary:
+CSE 518 Foundations of Human Computer Interaction, CSE/ISE/EST 323 Human Computer Interaction
+
+
+Professor: Barbara Chapman
+Teaching Summary:
+None
+
+
+Professor: Omar Chowdhury
+Teaching Summary:
+None
+
+
+Professor: Rezaul Chowdhury
+Teaching Summary:
+CSE 548, CSE 590, CSE 613, CSE 638, CSE 642
+
+
+Professor: Samir R. Das
+Teaching Summary:
+CSE 570 (usually in Fall semesters), occasionally CSE 534, CSE 370 and CSE 310
+
+
+Professor: Ahmad Esmaili
+Teaching Summary:
+ISE 102, ISE 215, CSE 102, CSE 110, CSE 113, CSE 114, CSE 130, CSE 214, CSE 215, CSE 219, CSE 230, CSE 302, CSE 311, HON 111, ITS 102, ISE 302, ISE 305, ISE 311, ISE 321, CSE390 (Mobile App Development)
+
+
+Professor: Michael Ferdman
+Teaching Summary:
+CSE 502, CSE 602, CSE 506
+
+
+Professor: Paul Fodor
+Teaching Summary:
+CSE 114, CSE 215, CSE 219, CSE 260, CSE 305, CSE 307, CSE 312, CSE 371, CSE 392, CSE 532, CSE 505, CSE 645, HON 111, ITS 102.
+
+
+Professor: Pramod Ganapathi
+Teaching Summary:
+SBU 102, CSE/ISE 102, CSE 214, CSE 215, CSE 303, CSE 350, CSE 373, CSE 582, CSE 595 (Algorithmic Problem-Solving)
+
+
+Professor: Anshul Gandhi
+Teaching Summary:
+CSE 691 (Fall'14): Energy-efficient computing
+
+
+Professor: Xianfeng Gu
+Teaching Summary:
+CSE 326, CSE328, CSE528, CSE 529/AMS553, CSE 564, CSE 590, CSE 595, CSE 618, CSE 648
+
+
+Professor: Himanshu Gupta
+Teaching Summary:
+CSE 215, 305, 373, 532
+
+
+Professor: Jalaa Hoblos
+Teaching Summary:
+None
+
+
+Professor: Shubham Jain
+Teaching Summary:
+None
+
+
+Professor: Christopher Kane
+Teaching Summary:
+None
+
+
+Professor: Arie Kaufman
+Teaching Summary:
+CSE 566, CSE 328, CSE 332, CSE 523, CSE 524, CSE528, CSE 564, CSE 600, CSE 664, CSE 684
+
+
+Professor: Robert F. Kelly
+Teaching Summary:
+CSE 106, ISE 108, CSE 114, ISE 218, ISE 305, CSE 308, CSE/ISE 312, ISE 320, ISE 331, CSE 333, CSE 336, ISE369/POL369, CSE416
+
+
+Professor: Dominik Kempa
+Teaching Summary:
+None
+
+
+Professor: Michael Kifer
+Teaching Summary:
+CSE 305, CSE 306, CSE 532, CSE 632, CSE 674
+
+
+Professor: Dongyoon Lee
+Teaching Summary:
+None
+
+
+Professor: Haibin Ling
+Teaching Summary:
+coming soon...
+
+
+Professor: Y. Annie Liu
+Teaching Summary:
+CSE 215, CSE/ISE 305, CSE 307, CSE/ISE 308, CSE/ISE 315, CSE 352, CSE/MAT 373, CSE 391, CSE 392, CSE 393, CSE 526, CSE 532, CSE 535, CSE 591, CSE 592, CSE 614, CSE 626, CSE 645, CSE 667, CSE 675, CSE 690, ITS 102.
+
+
+Professor: Kevin McDonnell
+Teaching Summary:
+CSE 101, CSE 114, CSE 215, CSE 220, CSE 564
+
+
+Professor: Richard McKenna
+Teaching Summary:
+CSE 101, CSE 102, CSE 114, CSE 214, CSE 219, CSE 220, CSE 300, CSE 301, CSE 308, CSE 333, CSE 380, CSE 381, CSE 390, ISE 208, ISE 390, ITS 102
+
+
+Professor: Joydeep Mitra
+Teaching Summary:
+None
+
+
+Professor: Shuai Mu
+Teaching Summary:
+CSE 535
+
+
+Professor: Klaus Mueller
+Teaching Summary:
+CSE 323, CSE 332, CSE 337, CSE 523, CSE 524, CSE 564, CSE 577, CSE 612, CSE 648, CSE 690
+
+
+Professor: Minh Hoai Nguyen
+Teaching Summary:
+Video Analysis (CSE 594), Introductions to Robotics (CSE 525)
+
+
+Professor: Nick Nikiforakis
+Teaching Summary:
+CSE 508, CSE 509, CSE 361
+
+
+Professor: Omkant Pandey
+Teaching Summary:
+None
+
+
+Professor: Supartha Podder
+Teaching Summary:
+In the Spring 2022, Podder will teach a graduate course in Quantum computing at Stony Brook. Previously, at the University of Ottawa, he taught Linear Algebra, and Discrete Mathematics
+
+
+Professor: Michalis Polychronakis
+Teaching Summary:
+CSE508
+
+
+Professor: Hong Qin
+Teaching Summary:
+CSE 328, CSE 523, CSE 524, CSE 530, CSE 621, CSE 665
+
+
+Professor: Amir Rahmati
+Teaching Summary:
+None
+
+
+Professor: C.R. Ramakrishnan
+Teaching Summary:
+CSE 219, CSE 304, CSE 307, CSE 505, CSE 526, CSE 637, CSE 645, CSE 651, CSE 653, CSE 655, CSE 675.02, CSE 691
+
+
+Professor: I.V. Ramakrishnan
+Teaching Summary:
+CSE 352, CSE 537
+
+
+Professor: Michael Ryoo
+Teaching Summary:
+None
+
+
+Professor: Dimitris Samaras
+Teaching Summary:
+CSE 327/ESE 358, CSE 378/525, CSE 390, CSE 523/524, CSE 527/627, CSE 592, CSE 601/ESE 559, CSE 615, CSE 656, CSE 681
+
+
+Professor: Tony Scarlatos
+Teaching Summary:
+CSE 334, CSE 364, CSE 392
+
+
+Professor: H. Andrew Schwartz
+Teaching Summary:
+None
+
+
+Professor: R. Sekar
+Teaching Summary:
+CSE 304, CSE 307, CSE 408, CSE 504, CSE 508, CSE 509, CSE 548, CSE 608
+
+
+Professor: Radu Sion
+Teaching Summary:
+CSE 408/508, CSE 409/509, CSE 594, CSE 659, CSE 661, CSE 684, CSE 690
+
+
+Professor: Steven Skiena
+Teaching Summary:
+CSE 101, CSE 113, CSE 214, CSE 373, CSE 392, CSE 547, CSE 548, CSE 549, CSE 642, CSE 648, CSE 652, CSE 691
+
+
+Professor: Scott Smolka
+Teaching Summary:
+CSE/ISE 305, CSE 306, CSE 523, CSE 524, CSE 532, CSE 635, CSE 643, CSE 653, CSE 673
+
+
+Professor: Eugene Stark
+Teaching Summary:
+CSE 160, CSE 260, CSE 219, CSE 220, CSE 230, CSE 306, CSE 307, CSE 523, CSE 526, CSE 540
+
+
+Professor: Scott Stoller
+Teaching Summary:
+CSE 308, CSE 594, ITS 102
+
+
+Professor: Yifan Sun
+Teaching Summary:
+CSE 512 (Fall 2020)
+
+
+Professor: Allen Tannenbaum
+Teaching Summary:
+None
+
+
+Professor: Praveen Tripathi
+Teaching Summary:
+None
+
+
+Professor: Fusheng Wang
+Teaching Summary:
+None
+
+
+Professor: Anita Wasilewska
+Teaching Summary:
+CSE 303, CSE 541, CSE 547, CSE 352, CSE 371, CSE 634, CSE 651
+
+
+Professor: Zhaozheng Yin
+Teaching Summary:
+None
+
+
+Professor: Nengkun Yu
+Teaching Summary:
+None
+
+
+Professor: Erez Zadok
+Teaching Summary:
+CSE 306, CSE 376, CSE 506, CSE 595
+
+
+Professor: Yevgen Borodin
+Teaching Summary:
+N/A
+
+
+Professor: Jing Chen
+Teaching Summary:
+CSE 540, CSE/AMS 547
+
+
+Professor: Jie Gao
+Teaching Summary:
+CSE 548, CSE 642
+
+
+Professor: Phillipa Gill
+Teaching Summary:
+CSE 592
+
+
+Professor: Radu Grosu
+Teaching Summary:
+CSE 304, CSE 305, CSE 307, CSE 315, CSE 504, CSE 510, CSE 515, CSE 625, CSE 637, CSE 643, CSE 657
+
+
+Professor: Rob Johnson
+Teaching Summary:
+CSE 150, CSE 408/508, CSE 409/509, CSE 548, CSE 608, CSE 690
+
+
+Professor: Byungkon Kang
+Teaching Summary:
+CSE 353, CSE 512
+
+
+Professor: Ayush Kumar
+Teaching Summary:
+None
+
+
+Professor: YoungMin Kwon
+Teaching Summary:
+@SUNY Korea: CSE504
+
+
+Professor: Arthur Lee
+Teaching Summary:
+As a new comer, he will start teaching the following at SUNY      Korea in the coming years: CSE 114, CSE 214, CSE 305, CSE 307, CSE 336, CSE 526, CSE 532, CSE 590.
+
+
+Professor: Joseph Marino
+Teaching Summary:
+None
+
+
+Professor: Francesco Orabona
+Teaching Summary:
+None
+
+
+Professor: Seung Soo Park
+Teaching Summary:
+CSE 352, CSE 537
+
+
+Professor: Martin Radfar
+Teaching Summary:
+CSE215, CSE310, CSE391
+
+
+Professor: Jihoon Ryoo
+Teaching Summary:
+CSE373
+
+
+Professor: Adam C. Siepel
+Teaching Summary:
+None
+
+
+Professor: Alexander Spirov
+Teaching Summary:
+N/A
+
+
+Professor: Tuncay Tekle
+Teaching Summary:
+None
+
+
+Professor: Dennis Wong
+Teaching Summary:
+@SUNY Korea: CSE215
+
+
+Professor: Jennifer Wong-Ma
+Teaching Summary:
+CSE 220, CSE 300, CSE 306, CSE 312, CSE 320, CSE 591, CSE 592, CSE 594, CSE 651, CSE 658, CSE 690, ITS 102
+
+
+Professor: Wei Xu
+Teaching Summary:
+None
+
+
+Professor: Esther Arkin
+Teaching Summary:
+AMS 301, AMS 341, AMS 540, AMS 546, MBA 540, MBA 546.
+
+
+Professor: Susan Brennan
+Teaching Summary:
+PSY 260, PSY 365, PSY 384, PSY 520
+
+
+Professor: Nilanjan Chakraborty
+Teaching Summary:
+None
+
+
+Professor: Chao Chen
+Teaching Summary:
+None
+
+
+Professor: Sangjin Hong
+Teaching Summary:
+ESE 356/501, ESE 575
+
+
+Professor: Chuan Huang
+Teaching Summary:
+None
+
+
+Professor: Xiangmin Jiao
+Teaching Summary:
+AMS 261, AMS 527
+
+
+Professor: Dima Kozakov
+Teaching Summary:
+None
+
+
+Professor: Tahsin M. Kurc
+Teaching Summary:
+None
+
+
+Professor: Shan Lin
+Teaching Summary:
+ESE 543, ESE 343, ESE 670, CIS 2139, CIS 4350, CIS 8542
+
+
+Professor: Zhenhua Liu
+Teaching Summary:
+None
+
+
+Professor: Christian Luhmann
+Teaching Summary:
+None
+
+
+Professor: Peter Milder
+Teaching Summary:
+None
+
+
+Professor: Joseph S.B. Mitchell
+Teaching Summary:
+CSE 555, AMS 545, AMS 300, AMS 311
+
+
+Professor: Prateek Prasanna
+Teaching Summary:
+None
+
+
+Professor: Owen Rambow
+Teaching Summary:
+LIN 120
+
+
+Professor: Joel Saltz
+Teaching Summary:
+Stony Brook Medicine: CS 595 Topics in Computer Science:  Data Analytics Software - Stacks At Emory, Georgia Tech, Ohio State and U Maryland: Graduate seminars in Data Analytics, Graduate seminars in High Performance Computing
+
+
+Professor: Lori Scarlatos
+Teaching Summary:
+CSE/EST 323, EST 570, EST 579, EST 573, EST 565, EST 574, EST 578, EST 310, ISE 340
+
+
+Professor: Margaret Schedel
+Teaching Summary:
+None
+
+
+Professor: Xin Wang
+Teaching Summary:
+ESE 506
+
+
+Professor: Susu Xu
+Teaching Summary:
+None
+
+
+Professor: Yuanyuan Yang
+Teaching Summary:
+ESE 124, ESE 333, ESE 536/CSE 626, ESE 670
+
+
+Professor: Fan Ye
+Teaching Summary:
+None
+
+
+Professor: Gregory Zelinsky
+Teaching Summary:
+N/A
+
+
+Professor: Peng Zhang
+Teaching Summary:
+None
+
+
+Professor: Rong Zhao
+Teaching Summary:
+CSE 308, CSE 333, CSE 500, CSE 523/524, ISE 320, ISE 504, ITS 102, MBA 511, MBA 588, EMP 509, EST 582
+
+
+Professor: Wei Zhu
+Teaching Summary:
+AMS 312, AMS 572.
+
+
+Professor: Leo Bachmair
+Teaching Summary:
+CSE 215, CSE 303, CSE 350, CSE 541
+
+
+Professor: Hussein Badr
+Teaching Summary:
+CSE 220, CSE/ISE 310, CSE 529, CSE 533
+
+
+Professor: Arthur Bernstein
+Teaching Summary:
+N/A
+
+
+Professor: David Ferguson
+Teaching Summary:
+David Ferguson teaches courses in educational technology and decision making.
+
+
+Professor: Herbert Gelernter
+Teaching Summary:
+None
+
+
+Professor: Jack Heller
+Teaching Summary:
+N/A
+
+
+Professor: Ker-I Ko
+Teaching Summary:
+CSE 303, CSE 540, CSE 548
+
+
+Professor: Philip Lewis
+Teaching Summary:
+CSE/ISE 300, CSE/ISE 308, CSE/ISE 315
+
+
+Professor: Theo Pavlidis
+Teaching Summary:
+ITS 102
+
+
+Professor: David Smith
+Teaching Summary:
+N/A
+
+
+Professor: David Warren
+Teaching Summary:
+CSE 505
+
+
+Professor: Larry Wittie
+Teaching Summary:
+CSE 230, CSE 300, CSE 320, CSE 502, CSE 511, CSE 523, CSE 524, CSE 613
